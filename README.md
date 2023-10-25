@@ -9,7 +9,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 - Deployment
-Here's the link to the Tableau dashboard, showcasing the results of the analysis:
+Here's the link to the Tableau dashboard, showcasing the results of the analysis: https://public.tableau.com/app/profile/robert.takan/viz/Citi_Bike_16975698349500/Home?publish=yes
 
 - Instructions
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
@@ -41,6 +41,8 @@ I imported the files into a Jupyter Notebook file, named "citibike.ipynb", to sy
 
 The following images show an overview of the data cleansing process.
 
+<img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/dataclean5.png" width=800 height=70>
+
 <img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/dataclean2.png" width=800 height=400>
 
 <img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/dataclean3.png" width=800 height=400>
@@ -48,3 +50,17 @@ The following images show an overview of the data cleansing process.
 <img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/dataclean4.png" width=800 height=400>
 
 <img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/dataclean1.png" width=800 height=100>
+
+Images of Tableau Dashboard:
+
+<img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/home.png" width=800 height=400>
+
+<img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/Screenshot%202023-10-24%20210912.png" width=800 height=400>
+
+<img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/Station.png" width=800 height=400>
+
+<img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/geographical.png" width=800 height=400>
+
+*Technologies used: Microsoft Visual Studio Code & Tableau Public 2023.2
+
+
