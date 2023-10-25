@@ -65,4 +65,6 @@ Images of Tableau Dashboard:
 
 *Technologies used: Microsoft Visual Studio Code & Tableau Public 2023.2
 
+*Note: Couldn't upload the merged CSV file and Tableau workbook due to size.
+
 
