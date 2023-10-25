@@ -40,3 +40,11 @@ from the months of June - December 2019.
 I imported the files into a Jupyter Notebook file, named "citibike.ipynb", to systematically clean and combine all the monthly CSV files into a single CSV file, in preparation for importing into Tableau.
 
 The following images show an overview of the data cleansing process.
+
+<img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/dataclean2.png" width=800 height=400>
+
+<img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/dataclean3.png" width=800 height=400>
+
+<img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/dataclean4.png" width=800 height=400>
+
+<img src="https://github.com/IRTakan/Citi_Bike-Challenge/blob/main/images/dataclean1.png" width=800 height=100>
