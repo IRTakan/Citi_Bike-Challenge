@@ -9,9 +9,11 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 - Deployment
+
 Here's the link to the Tableau dashboard, showcasing the results of the analysis: https://public.tableau.com/app/profile/robert.takan/viz/Citi_Bike_16975698349500/Home?publish=yes
 
 - Instructions
+
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
 Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
@@ -34,10 +36,10 @@ Ensure your presentation is professional, logical, and visually appealing.
 
 - Data Source
   
-Before starting this challenge I had to make sure that I created my database that would be used to create the visuals for my analysis. So I downloaded 7 CSV files
+Before starting this challenge I had to make sure that I created my database that would be used for creating the visuals in my analysis. I downloaded 7 CSV files
 from the months of June - December 2019.
 
-I imported the files into a Jupyter Notebook file, named "citibike.ipynb", to systematically clean and combine all the monthly CSV files into a single CSV file, in preparation for importing into Tableau.
+I imported the files into a Jupyter Notebook file, named "citi_bike_merge.ipynb", to systematically clean and combine all the monthly CSV files into a single CSV file, in preparation for importing into Tableau.
 
 The following images show an overview of the data cleansing process.
 
